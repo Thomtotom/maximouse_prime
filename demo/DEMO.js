@@ -1,6 +1,8 @@
 var character = document.querySelector(".character");
 var map = document.querySelector(".map");
 
+console.log("hello tom")
+
 //start in the middle of the map
 var x = 90;
 var y = 34;
